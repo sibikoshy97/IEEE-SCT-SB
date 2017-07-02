@@ -1,0 +1,15 @@
+body{
+	background-color: grey;
+	background-image: cover;
+}
+#c1{
+	width:800px;
+	height: 500px;
+	background-color: white;
+	margin-top: 50px;
+}
+.heading{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 25px;
+	text-align: center;
+}
